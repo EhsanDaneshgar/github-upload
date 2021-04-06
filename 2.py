@@ -1,10 +1,11 @@
-# get a natural number from user, determine how many of its digits are even, odd or zero!
+# get a natural number from user, determines how many of its digits are even, odd or zero!
 
 sum=0
 num=int(input("Enter a natural number: "))
 num2=num
 num3=num
 
+# determining the number of digits
 while num2>=1:
     num2=num2/10
     sum=sum+1
@@ -12,6 +13,7 @@ zero=0
 even=0
 odd=0
 
+# getting the first digit of the number from the right side
 for i in range(sum):
     yekan=num3%10
     if yekan==0:
