@@ -27,5 +27,4 @@ for i in range(sum):
 print(num,"","has",sum,"","digit(s).")
 print(num,"","has",zero,"","zero(s).")
 print(num,"","has",even,"","even digit(s).")
-print(num,"","has",odd,"","odd digit(s).")
-    
+print(num,"","has",odd,"","odd digit(s).") 
