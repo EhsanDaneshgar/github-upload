@@ -1,2 +1,13 @@
-# The proggrame asks users to input a natural number ...
-# Then detemines how many digits  the number has. And how many digits of the number are odd, even or zero!
+# 🔢 Digit Analyzer
+
+## 📘 Description
+
+This simple Python program prompts the user to input a **natural number**, then analyzes its digits and returns:
+
+- 🔢 Total number of digits  
+- 🟢 Number of **even** digits  
+- 🔴 Number of **odd** digits  
+- ⚫ Number of **zero** digits
+
+It's a quick way to break down any natural number into useful digit statistics.
+
