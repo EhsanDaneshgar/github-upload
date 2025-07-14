@@ -1,5 +1,3 @@
-# 🔢 Digit Analyzer
-
 ## 📘 Description
 
 This simple Python program prompts the user to input a **natural number**, then analyzes its digits and returns:
